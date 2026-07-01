@@ -20,3 +20,25 @@ Repository structure:
 ├── Supplementary_material_Algorithms.pdf           # Contains pseudo-code of the assessed packet scheduling and congestion control algorithms
 └── visualization
     └── testplot.ipynb                              # Jupyter notebook including the functions used to render the plots/figures. 
+
+
+## Citation
+
+If you use this software or the associated methodology in your research, please cite the software:
+
+
+### Software Codebase
+> Dimopoulos, D. (2026). MPTCP-performance-evaluation (Version 0.1) [Computer software]. GitHub repository: [https://github.com/ddimopou/mptcp-perf](https://github.com/ddimopou/mptcp-perf)
+
+### BibTeX
+```bibtex
+
+@software{mptcp_perf_2026,
+  author       = {Dimopoulos, Dimitris},
+  title        = {MPTCP-performance-evaluation: Version 0.1},
+  month        = jun,
+  year         = {2026},
+  publisher    = {GitHub},
+  url          = {https://github.com/ddimopou/mptcp-perf}
+}
+```
