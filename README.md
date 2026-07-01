@@ -21,6 +21,7 @@ Repository structure:
 └── visualization
     └── testplot.ipynb                              # Jupyter notebook including the functions used to render the plots/figures. 
 
+```
 
 ## Citation
 
